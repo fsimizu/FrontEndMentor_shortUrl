@@ -1,0 +1,9 @@
+.btn_getStarted {
+    padding: 0.8em 2.3em;
+    border-radius: 2em;
+    border: none;
+    background-color: var(--cyan);
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+}

@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+    /* Primary */
+    --cyan: hsl(180, 66%, 49%);
+    --darkViolet: hsl(257, 27%, 26%);
+
+    /* Secondary */
+    --red: hsl(0, 87%, 67%);
+
+    /* Neutral */
+    --lightGrey: hsl(225,33%,95%);
+    --grey: hsl(0, 0%, 75%);
+    --greyishViolet: hsl(257, 7%, 63%);
+    --veryDarkBlue: hsl(255, 11%, 22%);
+    --veryDarkViolet: hsl(260, 8%, 14%);
+}
+
+
+
+h1 {
+    font-size: 42px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    color: var(--veryDarkViolet);
+}
+h2 {
+    font-weight: 700;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+h6 {
+    font-weight: 700;
+}
+
+p {
+    font-size: 18px;
+    line-height: 32px;
+}
